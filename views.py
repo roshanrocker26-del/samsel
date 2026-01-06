@@ -11,3 +11,4 @@ def teacher_login(request):
 
 def student_login(request):
     return render(request, 'student_login.html')
+
